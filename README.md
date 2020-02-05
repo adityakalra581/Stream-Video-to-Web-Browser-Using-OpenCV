@@ -15,3 +15,11 @@ https://www.pyimagesearch.com/2016/05/16/running-a-python-opencv-script-on-reboo
 But somehow it didn't work for me.
 I will upload the documentation of this which will include each and every step to follow in order
 to execute this task.
+
+
+## Virtual Environment:
+
+I have uploaded a text file in the repository which include everything about the virtual environment
+that is How to set it up, installation, Activation, Installing the dependencies and so on.
+
+Link: https://github.com/adityakalra581/Stream-Video-to-Web-Browser-Using-OpenCV/blob/master/Virtual-Environment.txt
