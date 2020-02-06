@@ -28,6 +28,11 @@ Link: https://github.com/adityakalra581/Stream-Video-to-Web-Browser-Using-OpenCV
 
 Another txt file is uploaded for making this project start as soon as the RPi is boot up.
 
+## Raspberry Pi GPIO Pins:
 
+Source of Image: https://docs.microsoft.com/en-us/windows/iot-core/learn-about-hardware/pinmappings/pinmappingsrpi
+
+In this project I have used GPIO 23 and 24.
  
+
 
