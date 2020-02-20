@@ -15,7 +15,7 @@ cd into the required directory.
 
 '''
 $ cd Project
-$ python3 venv my_venv
+$ python3 -m venv my_venv
 '''
 
 here my_venv is the environment name.
